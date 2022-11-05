@@ -3,6 +3,4 @@
 <p  align="center">
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
   
-
-&nbsp; <br> [![Spotify](https://open.spotify.com/track/4cxB2603ulZZjod5FwmWy1?si=586e924435734314)
-
+[![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track)
