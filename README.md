@@ -4,5 +4,5 @@
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
   
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Nanokwok)
 
