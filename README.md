@@ -2,5 +2,6 @@
 
 <p  align="center">
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
-  
+
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nanokwok&theme=xcode)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nanokwok&show_icons=true&theme=radical)
