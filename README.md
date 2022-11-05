@@ -1,3 +1,2 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nanokwok ></h1>
 
-<div id="comp-kr9j9gss" class="_1Q9if _3bcaz" data-testid="richTextElement" data-angle="0" data-angle-style-location="style" data-screen-in-hide="done" style="visibility: inherit;"><h1 class="font_0" style="font-size:87px;"><span style="color:#FFDB00;"><span style="font-size:87px;"><span style="font-family:wfont_b3707a_23b83275f5a745458a24b4e16224807c,wf_23b83275f5a745458a24b4e16,orig_calling_code_regular;"><span style="font-weight:bold;">&nbsp;&lt;/HelloWorld&gt;</span></span></span></span></h1></div>
