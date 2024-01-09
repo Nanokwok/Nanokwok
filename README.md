@@ -3,7 +3,7 @@
 <p  align="center">
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 
-<h3 align="center">Software and Knowledge Engineering Student</h3>
+<h3 align="center">Software and Knowledge Engineering Student (SKE20)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
