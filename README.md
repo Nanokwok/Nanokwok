@@ -18,4 +18,8 @@
 <h3 align="left">Top Language:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanokwok&show_icons=true&locale=en&layout=compact" alt="nanokwok" /></p>
 
-![Alt Text](https://media.giphy.com/media/cJfY82h8ijUFQEmDKa/giphy.gif)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/cJfY82h8ijUFQEmDKa/giphy.gif" alt="Alt Text" width="400" height="400">
+</p>
+
