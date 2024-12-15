@@ -1,25 +1,94 @@
-<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nanokwok </h1>
+<div align="center" style="font-family: Arial, sans-serif; color: #333;">
+  <h1 style="font-size: 2.5rem; color: #1f2937;">👋 Hi, I'm Atikarn Kruaykriangkrai (Nano)</h1>
+  <p style="font-size: 1.2rem; color: #4b5563;">
+    Front-End Developer | UX/UI Enthusiast
+  </p>
+  <p style="max-width: 600px; color: #6b7280; margin: 0 auto;">
+    I am a Software and Knowledge Engineering student at Kasetsart University. I’m passionate about front-end development, UX/UI design, and creating user-friendly interfaces. I love building impactful projects using modern tools and frameworks.
+  </p>
+</div>
 
-<p  align="center">
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
+---
 
-<h3 align="center">Software and Knowledge Engineering Student (SKE20)</h3>
+## 💻 Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nano kwok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nano kwok" height="30" width="40" /></a>
-<a href="https://fb.com/nanokwok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nanokwok" height="30" width="40" /></a>
-<a href="https://instagram.com/nanoboke__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nanoboke__" height="30" width="40" /></a>
+### Programming
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
+
+### Front-End Tools
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
+### UX/UI Design and Data Analysis
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Adobe%20Creative%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Creative Suite" />
+  <img src="https://img.shields.io/badge/User%20Research-4A90E2?style=for-the-badge" alt="User Research" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-34D399?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/RapidMiner-FF6F00?style=for-the-badge&logoColor=white" alt="RapidMiner" />
+</div>
+
+---
+
+## 📂 Projects
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <h3 style="font-size: 1.25rem; color: #2563eb; margin-bottom: 10px;">
+      <a href="https://github.com/MoneyMap-Project/MoneyMap" style="text-decoration: none; color: #2563eb;">MoneyMap</a>
+    </h3>
+    <p>A financial tracking web app using TailwindCSS and JavaScript.</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <h3 style="font-size: 1.25rem; color: #2563eb; margin-bottom: 10px;">
+      <a href="https://github.com/Nanokwok/Paw_n_Care" style="text-decoration: none; color: #2563eb;">Paw n Care</a>
+    </h3>
+    <p>A pet care app with interactive web pages and database integration.</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <h3 style="font-size: 1.25rem; color: #2563eb; margin-bottom: 10px;">
+      <a href="https://github.com/Nanokwok/Academic-Performance-Management" style="text-decoration: none; color: #2563eb;">Academic Performance Management</a>
+    </h3>
+    <p>A Python GUI app for tracking student grades using Tkinter.</p>
+  </div>
+</div>
+
+---
+
+## 🏆 Achievements
+<ul style="color: #4b5563;">
+  <li>🥇 <b>1st Place:</b> AI & UX/UI Design Competition (Aidea Thailand, 2021). Published in Scopus Database.</li>
+  <li>🎨 Designed UX/UI for a Bitcoin Mining Website and Leeds Application using Figma.</li>
+</ul>
+
+---
+
+## 📫 Contact Me
+<p style="font-size: 1.1rem; color: #4b5563;">
+  📧 Email: <a href="mailto:atikarn.kr@gmail.com" style="color: #2563eb;">atikarn.kr@gmail.com</a>  
+  <br>🌍 GitHub: <a href="https://github.com/Nanokwok" style="color: #2563eb;">Nanokwok</a>  
+  <br>📍 Location: Bangkok, Thailand  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Top Language:</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanokwok&show_icons=true&locale=en&layout=compact" alt="nanokwok" />
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/cJfY82h8ijUFQEmDKa/giphy.gif" alt="Alt Text" width="400" height="400">
-</p>
-
+## 📊 GitHub Stats
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nanokwok&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
+       alt="GitHub Stats" 
+       style="height: 200px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanokwok&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
+       alt="Top Languages" 
+       style="height: 200px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+</div>
