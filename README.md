@@ -74,15 +74,6 @@
 
 ---
 
-## 📫 Contact Me
-<p style="font-size: 1.1rem; color: #4b5563;">
-  📧 Email: <a href="mailto:atikarn.kr@gmail.com" style="color: #2563eb;">atikarn.kr@gmail.com</a>  
-  <br>🌍 GitHub: <a href="https://github.com/Nanokwok" style="color: #2563eb;">Nanokwok</a>  
-  <br>📍 Location: Bangkok, Thailand  
-</p>
-
----
-
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Nanokwok&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
