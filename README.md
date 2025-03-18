@@ -1,8 +1,5 @@
 <div align="center" style="font-family: Arial, sans-serif; color: #333;">
   <h1 style="font-size: 2.5rem; color: #1f2937;">👋 Hi, I'm Atikarn Kruaykriangkrai (Nano)</h1>
-  <p style="font-size: 1.2rem; color: #4b5563;">
-    Front-End Developer | UX/UI Enthusiast
-  </p>
   <p style="max-width: 600px; color: #6b7280; margin: 0 auto;">
     I am a Software and Knowledge Engineering student at Kasetsart University. I’m passionate about front-end development, UX/UI design, and creating user-friendly interfaces. I love building impactful projects using modern tools and frameworks.
   </p>
