@@ -3,8 +3,6 @@
   <h3 align="center">Software Engineering Student @ Kasetsart University</h3>
   <p align="center">
     <b>Full Stack Developer & UI/UX Designer</b>
-    <br/>
-    Building scalable, component-driven UI systems & High-performance backends.
   </p>
   
   <p align="center">
